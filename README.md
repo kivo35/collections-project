@@ -1,4 +1,3 @@
-# Basic Project
-## This file is modified to include a link to google site
+# Collections Project
+### Pet registration program using collections.
 
-[Google](https://google.com)
